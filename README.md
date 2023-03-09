@@ -40,4 +40,6 @@ HEAD is now at f81ed6a update rnd 2023/2/7
 
 ```
 
+git push --force origin HEAD
+
 
